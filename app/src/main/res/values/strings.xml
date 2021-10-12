@@ -1,0 +1,7 @@
+<resources>
+<string name="app_name">Космолот</string>
+<string name="reconnect_87csom">Проверить</string>
+<string name="start_button_87csom">Старт</string>
+<string name="logo_87csom">лого cl</string>
+<string name="check_your_connection_87csom">Интернет-соединение отсутствует</string>
+</resources>

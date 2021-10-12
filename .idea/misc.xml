@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/User/AndroidStudioProjects/87csom/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.20092592592592592" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/87csom/app/src/main/res/drawable/custom_button_87csom.xml" value="0.20092592592592592" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/87csom/app/src/main/res/drawable/ic_launcher_background.xml" value="0.20092592592592592" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/87csom/app/src/main/res/layout/activity_main.xml" value="0.11956521739130435" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/87csom/app/src/main/res/layout/activity_main_87csom.xml" value="0.18" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/87csom/app/src/main/res/layout/activity_web_activity_87csom.xml" value="0.11956521739130435" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/87csom/app/src/main/res/xml/external_87csom.xml" value="0.11956521739130435" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
